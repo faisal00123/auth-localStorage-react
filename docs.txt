@@ -1,0 +1,13 @@
+Dev: Muhammad Shakir Barkati
+
+# Core Features:
+1) Login with password and email conformation
+singup with username, correct eamil , passowrd with check password is strong or no, conform password, genrate random strong password, copy and past in password field
+Save signup data in localStorage
+
+road map:
+setup react project with tailwind css ✅
+Genrate signUp frontend page ✅
+Create a signUp funcnality ✅
+set user in localStorage in object form ✅
+create login form
